@@ -1,0 +1,31 @@
+ title { font-size: 36px; font-family: arial, sans-serif;}
+ 
+ div.header
+{  
+ text-align: center ;
+    
+   }
+body { background-color: #FFFFFC ; font-family: apercu, sans-serif;
+}
+
+div.container {
+ font-family: arial, sans-serif;
+    border: 5px solid black;
+    margin-left: 65px;
+    margin-right: 65px; 
+    background-image: url(floral.jpg)
+}
+
+
+ul { text-align: center ; list-style: none; font-family: arial, sans-serif; }
+h1 {color:#25383C; font-size: 36px;  font-family: arial, sans-serif; }
+h2 {color:DarkSlateBlue; font-size: 42px; font-family: arial, sans-serif;}
+h3 {color:#25383C; font-size: 16px;  font-family: arial, sans-serif; }
+
+p {color:Black; font-size: 20px; text-align: center ; font-family: arial, sans-serif;}
+    
+ul {font-size: 18px; font-family: arial, sans-serif;}
+button { width: 100px; height: 45px; font-size: 17px; background-color: #d1e0fa; 
+border-radius: 12px; margin: 0% 50% 0% 50%;}
+img { padding: 50px }
+footer { font-size: 12px; font-family: arial, sans-serif; text-align: center}

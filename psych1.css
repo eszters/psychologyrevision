@@ -1,0 +1,35 @@
+ title { font-size: 42px; }
+body {
+    background-image: url(manor_stripe_cream_wallpaper.jpg);
+}
+div.container{
+     border: 5px solid black;
+    margin-left: 65px;
+    margin-right: 65px; 
+    background-image: url(manor_stripe_cream_wallpaper.jpg)
+}
+
+h1 {
+    color: #422C16 ;
+	text-align: center;
+	text-decoration: underline;
+	 font-size: 42px;
+	 }
+	 
+ h2 {color:#2d1606; font-size: 38px; text-align: center;}
+  h3 {color:#432109; font-size: 28px; text-align: center;}
+  h4 {color:#2d1a06; text-align: center ; font-size: 34px;  }
+
+ul { text-align: center ; list-style: none; font-family: arial, sans-serif; }
+
+p.round2 {
+    border: 2px solid #CD853F;
+    border-radius: 8px;
+}
+p {
+   
+    color: #432109; font-size: 26px; 
+    text-align: center ;
+}
+
+
